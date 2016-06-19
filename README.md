@@ -8,5 +8,5 @@ The above goes to the previous version. There are also methods to go back to a s
 git push --force origin master
 ```
 This make the github rep goes back too.
-
+[see more](http://stackoverflow.com/questions/17667023/git-how-to-reset-origin-master-to-a-commit)
 
